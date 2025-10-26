@@ -31,9 +31,9 @@ Users can donate plastic, earn coins, and redeem rewards. Companies can place **
 ---
 
 ## 🖥 Tech Stack  
-
-- **Frontend:** React (TypeScript), Tailwind CSS, HTML, JavaScript  
-- **Backend:** Node.js, Express.js (TypeScript)  
+,
+- **Frontend:** React.js 
+- **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **IDE/Tools:** VS Code  
 
